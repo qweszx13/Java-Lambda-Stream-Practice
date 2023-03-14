@@ -1,3 +1,5 @@
+package LambdaEx;
+
 import java.util.Arrays;
 
 class LambdaEx1{
